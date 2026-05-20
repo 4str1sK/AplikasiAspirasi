@@ -2,6 +2,10 @@
 
 Aplikasi desktop berbasis Java untuk menyampaikan kritik, saran, dan aspirasi secara digital.
 
+## Note
+Project ini masih berada pada tahap awal pengembangan karena saat ini difokuskan untuk memenuhi kebutuhan tugas sekolah.
+(BUGGY)
+
 ## Features
 - Login siswa & admin
 - Menambahkan aspirasi
